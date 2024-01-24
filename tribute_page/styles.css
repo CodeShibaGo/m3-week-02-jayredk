@@ -1,0 +1,36 @@
+#image {
+  display: block;
+  max-width:100%;
+  height: auto;
+  margin: 0 auto 1rem;
+}
+
+#main {
+  background-color: #EEEEEE;
+  padding: 2rem 0;
+  text-align:center;
+}
+
+#img-div {
+  background-color: #fff;
+  padding: 1rem 7rem;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+#tribute-info ul {
+  text-align: left;
+  display:inline-block;
+  max-width:500px;
+}
+
+#tribute-info li {
+  margin-bottom: 1.5rem;
+}
+
+blockquote {
+  font-style: italic;
+  margin-bottom: 3rem;
+}
